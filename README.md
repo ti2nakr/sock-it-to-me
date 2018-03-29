@@ -1,4 +1,4 @@
-# Who wants socks? 🧦
+# Who wants socks? tinnakrit 🧦
 ### Modify this file on your phone at TrailheaDX '18 for a pair of fun socks
 1. Scan the QR code to visit http://github.com/salesforce/sock-it-to-me
 1. ![QR Code to this repo](https://goo.gl/eoho2z.qr)
